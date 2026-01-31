@@ -1,0 +1,9 @@
+{
+    "recommendations": ["vscjava.vscode-java-debug",
+                        "tal7aouy.icons",
+                        "ritwickdey.liveserver",
+                        "postman.postman-for-vscode",
+                        "vue.volar",
+                        "omthemes.omthemes"
+    ]
+}
