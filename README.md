@@ -191,3 +191,4 @@ Coleção disponível na pasta `/postman`, conforme solicitado no item **4.4** d
 **Repositório:** `intuitive-care-desafio`
 
 --
+
