@@ -1,8 +1,3 @@
-Perfeito — organizei tudo em um **README.md limpo, profissional e bem legível**, mantendo exatamente o conteúdo técnico, só que bem estruturado 👌
-Você pode copiar e colar direto no repositório.
-
----
-
 # 🏥 Intuitive Care — Processamento de Dados ANS
 
 Aplicação responsável por **automatizar a ingestão, limpeza, consolidação e visualização de dados contábeis** de operadoras de saúde suplementar disponibilizados pela **ANS**.
@@ -197,3 +192,4 @@ Coleção disponível na pasta `/postman`, conforme solicitado no item **4.4** d
 
 ---
 Só me dizer 😉
+
