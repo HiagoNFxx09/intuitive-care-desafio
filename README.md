@@ -10,7 +10,7 @@ O projeto foi desenvolvido seguindo as diretrizes do desafio técnico, com foco 
 
 ### Backend
 
-* **Java 17+**
+* **Java 17+ (usei o java 21)**
 * **Spring Boot**
 * **MySQL**
 * **Maven**
@@ -190,6 +190,4 @@ Coleção disponível na pasta `/postman`, conforme solicitado no item **4.4** d
 
 **Repositório:** `intuitive-care-desafio`
 
----
-Só me dizer 😉
-
+--
